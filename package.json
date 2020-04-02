@@ -1,0 +1,19 @@
+{
+  "name": "be-the-hero",
+  "version": "1.0.0",
+  "description": "Semana OminStack 11 - Node - ReackJS - Reactive Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosnani/be-the-hero.git"
+  },
+  "author": "Carlos Nani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosnani/be-the-hero/issues"
+  },
+  "homepage": "https://github.com/carlosnani/be-the-hero#readme"
+}
